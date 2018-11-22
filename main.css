@@ -51,9 +51,9 @@ img.profile-pic {
 	align-items: center;
 	flex-wrap: nowrap;
 	flex-direction: row;
-	position: absolute;
+	position: relative;
 	height: 30px;
-	width: 30px;
+	width: 100%;
 	bottom: 10px;
 }
 
