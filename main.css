@@ -42,6 +42,7 @@ img.profile-pic {
 .container {
 	margin: 0 auto;
 	position: relative;
+	grid-row-gap: 10px;
 	height: 100%;
 }
 
