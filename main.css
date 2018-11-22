@@ -171,16 +171,16 @@ img.profile-pic {
 
 .button {
 	background-color: #329bd6;
-	height: 48px;
-	padding-left: 24px
-	padding-right: 24px;
+	height: 40px;
+	padding-left: 10px
+	padding-right: 10px;
 	text-align: center;
 	vertical-align: middle;
-	line-height: 48px;
+	line-height: 40px;
 	font-family: 'Muli', sans-serif;
 	color: white;
 	font-weight: 400;
-	border-radius: 12px;
+	border-radius: 8px;
 }
 
 /*@media screen and (max-width: 600px) {
