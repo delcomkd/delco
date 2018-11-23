@@ -169,6 +169,10 @@ img.profile-pic {
 	height: 23%;
 }
 
+.bottom.is-10 {
+	height: 10%;
+}
+
 .button {
 	background-color: #329bd6;
 	height: 48px;
