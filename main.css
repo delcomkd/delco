@@ -165,6 +165,13 @@ img.profile-pic {
     font-size: 15px;
 }
 
+.text-phone {
+    font-family: 'Lato', sans-serif;
+    font-weight: 350;
+    color: #575757;
+    font-size: 15px;
+}
+
 .bottom {
 	height: 23%;
 }
